@@ -1,0 +1,11 @@
+.control-menu {
+    border: 1px solid lightblue;
+    box-shadow: 3px 6px lightskyblue;
+    padding: 2em;
+    border-radius: 1em;
+    margin: 5em 0;
+}
+
+.control-menu:hover {
+    box-shadow: 5px 10px lightskyblue;
+}
